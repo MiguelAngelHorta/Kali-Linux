@@ -1,6 +1,8 @@
 # Kali-Linux
 Virtual Machines using Kali Linux
 
+For UTM refer to #1, for VMware Fusion refer to #2. Graphical interface setup refer to #3
+
 ### Option #1: UTM
 
 **1. Install Kali Linux on Apple Silicon using UTM:**
